@@ -1,0 +1,19 @@
+  {
+	  "name": "com.unitypackage.tamplete",
+	  "version": "1.0.0",
+	  "displayName": "UnityPackageTemplate",
+	  "description": "This is an UnityPackage Default Template.",
+	  "documentationUrl": "https://docs.unity3d.com/kr/2023.2/Manual/upm-manifestPkg.html",
+	  "samples": [
+        {
+            "displayName": "SampleFolder1",
+            "description": "Sample Folder 1",
+            "path": "Samples~/SampleFolder1"
+        },
+        {
+            "displayName": "SampleFolder2",
+            "description": "Sample Folder 2",
+            "path": "Samples~/SampleFolder2"
+        }
+    ]
+  }
